@@ -1,5 +1,5 @@
  <?php
-                        $adrandroid= 'se.subitoservices.fasttrack.bees';$adrios= 'https://itunes.apple.com/us/app/bees/id1053409370?l=sv&ls=1&mt=8';
+                        $adrandroid= 'market://details?id=se.subitoservices.fasttrack.bees';$adrios= 'https://itunes.apple.com/us/app/bees/id1053409370?l=sv&ls=1&mt=8';
                        echo '
                        <!DOCTYPE html>
                        <html lang="en">

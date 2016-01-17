@@ -1,5 +1,5 @@
  <?php
-                        $adrandroid= 'se.subitoservices.fasttrack.fyraflickorochendelilebanese';$adrios= 'https://itunes.apple.com/us/app/fyra-flickor-och-en-deli-lebanese/id1053397445?l=sv&ls=1&mt=8';
+                        $adrandroid= 'market://details?id=se.subitoservices.fasttrack.fyraflickorochendelilebanese';$adrios= 'https://itunes.apple.com/us/app/fyra-flickor-och-en-deli-lebanese/id1053397445?l=sv&ls=1&mt=8';
                        echo '
                        <!DOCTYPE html>
                        <html lang="en">

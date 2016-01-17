@@ -1,5 +1,5 @@
  <?php
-                        $adrandroid= 'se.subitoservices.fasttrack.premiumpizza';$adrios= 'https://itunes.apple.com/us/app/premium-pizza/id1053414381?l=sv&ls=1&mt=8';
+                        $adrandroid= 'market://details?id=se.subitoservices.fasttrack.premiumpizza';$adrios= 'https://itunes.apple.com/us/app/premium-pizza/id1053414381?l=sv&ls=1&mt=8';
                        echo '
                        <!DOCTYPE html>
                        <html lang="en">

@@ -1,5 +1,5 @@
  <?php
-                        $adrandroid= 'se.subitoservices.fasttrack.medelhavsparlan';$adrios= 'https://itunes.apple.com/us/app/medelhavsparlan/id1069666888?l=sv&ls=1&mt=8';
+                        $adrandroid= 'market://details?id=se.subitoservices.fasttrack.medelhavsparlan';$adrios= 'https://itunes.apple.com/us/app/medelhavsparlan/id1069666888?l=sv&ls=1&mt=8';
                        echo '
                        <!DOCTYPE html>
                        <html lang="en">

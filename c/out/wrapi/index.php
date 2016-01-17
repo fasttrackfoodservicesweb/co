@@ -1,5 +1,5 @@
  <?php
-                        $adrandroid= 'se.subitoservices.fasttrack.wrapiano';$adrios= 'https://itunes.apple.com/us/app/wrapiano/id1053416714?l=sv&ls=1&mt=8';
+                        $adrandroid= 'market://details?id=se.subitoservices.fasttrack.wrapiano';$adrios= 'https://itunes.apple.com/us/app/wrapiano/id1053416714?l=sv&ls=1&mt=8';
                        echo '
                        <!DOCTYPE html>
                        <html lang="en">
