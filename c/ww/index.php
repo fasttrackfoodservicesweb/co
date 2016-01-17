@@ -18,8 +18,8 @@
                        </head>
                        <body>
                        ';
-                       echo '<br /><br /><div class="in"><a href="'..'">
+                       echo '<br /><br /><div class="in"><a href="'.$adrios.'">
                          <img src="../../img/app1.png" alt="App Store"></a>';
-                       echo '<br /><br /><br /><br /><a href="'..'">
+                       echo '<br /><br /><br /><br /><a href="'.$adrandroid.'">
                         <img src="../../img/go1.png" alt="Google Play"></a></div>';
                        echo'</body></html>';
